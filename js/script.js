@@ -12,3 +12,7 @@ toTop.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
+
+let date = new Date();
+let copyright = document.getElementById("date");
+copyright.textContent = date.getFullYear();
