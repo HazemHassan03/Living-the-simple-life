@@ -1,4 +1,4 @@
-# Living-the-simple-life
+# Living the simple life
 A responsive landing page contains 3 pages ( Home - About me - Recent posts ) I developed using HTML, CSS, and some JavaScript.
 
 With HTML and CSS I created the whole layout of the page and made it responsive 100% using Flex Box and Media Queries.
